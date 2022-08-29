@@ -1,52 +1,64 @@
-
-body{
+body {
     background-color: black;
 }
-header{
+
+header {
     height: 100%;
     text-align: center;
-    color:white;
+    color: white;
 }
-.logo{
+
+.logo {
     width: 100%;
 }
-h1{
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin: 10;
 }
+
 nav ul li {
     float: left;
     list-style: none;
     margin: 5px;
 }
-a{
+
+a {
     color: red;
 }
-.encabezado{
+
+.encabezado {
     color: white;
     text-align: center;
 }
-.recomendacion{
+
+.recomendacion {
     color: white;
 }
-p{
+
+p {
     color: white;
 }
-.fix{
+
+.fix {
     clear: both;
 }
-.mpn{
+
+.mpn {
     width: 33.1%;
 }
-.cartelera{
-    display:flex;
+
+.cartelera {
+    display: flex;
     justify-content: center;
 }
-.ñ{
+
+.ñ {
     color: white;
     text-align: center;
 }
-footer{
+
+footer {
     background-color: gray;
     text-align: center;
 
@@ -55,24 +67,30 @@ footer{
 
 
 }
-.pie{
+
+.pie {
     width: 10%;
 }
-article{
+
+article {
     color: white;
 }
-h3{
+
+h3 {
     color: white;
     clear: both;
 }
-.cart{
+
+.cart {
     width: 20%;
     float: left;
 }
-h4{
+
+h4 {
     color: white;
 }
-.main{
 
-   background-image: url(./img/fondo.png);
+.main {
+
+    background-image: url(./img/fondo.png);
 }
